@@ -1,17 +1,50 @@
 # 👋 Halo, saya Jessica
 
-🎓 Pelajar yang sedang belajar pemrograman Python  
-🐍 Fokus pada Turtle Graphics dan aplikasi Tkinter
+🎓 **Pelajar** yang sedang belajar pemrograman  
+📍 **Tempat tinggal:** Jakarta Timur, Indonesia  
+💻 **Fokus:** Python, Turtle Graphics, dan Tkinter  
 
-## 🛠️ Skill
-- Python
-- Turtle Graphics
-- Tkinter (GUI dasar)
+---
+
+## 🌟 Tentang Saya
+Saya adalah pelajar yang tertarik pada dunia pemrograman, khususnya **Python**.  
+Saya senang membuat **gambar dan animasi menggunakan Turtle** serta **aplikasi GUI sederhana dengan Tkinter**.  
+Repository ini saya gunakan sebagai **portofolio dan dokumentasi proses belajar** saya.
+
+---
+
+## 🛠️ Keahlian
+- 🐍 Python Dasar  
+- 🎨 Turtle Graphics  
+- 🖥️ Tkinter (GUI Dasar)  
+- 🌐 HTML & CSS Dasar  
+- 📂 GitHub (mengelola repository)
+
+---
 
 ## 📂 Proyek
-- 🎨 Gambar Bendera Indonesia (Python Turtle)
-- 🔺 Membuat bentuk segitiga berwarna
-- 🖥️ Aplikasi GUI sederhana dengan Tkinter
+Beberapa proyek yang pernah saya buat:
 
-## 📌 Tujuan
-Membangun portofolio dan meningkatkan kemampuan pemrograman Python.
+- 🇮🇩 **Gambar Bendera Indonesia** menggunakan Python Turtle  
+- 🔺 **Bentuk Geometri Berwarna** (segitiga & pola)  
+- 🖼️ **Gambar Kreatif Turtle**  
+- 🖥️ **Aplikasi GUI Sederhana** dengan Tkinter  
+
+---
+
+## 🎯 Tujuan
+- Meningkatkan kemampuan pemrograman Python  
+- Membuat proyek yang kreatif dan bermanfaat  
+- Membangun portofolio untuk pendidikan dan masa depan  
+
+---
+
+## 🚀 Rencana Belajar Selanjutnya
+- Proyek Python tingkat lanjut  
+- Memperdalam Tkinter  
+- Belajar Web Development  
+
+---
+
+✨ Terima kasih sudah mengunjungi portofolio saya!  
+Silakan lihat repository saya untuk melihat proyek-proyek yang telah saya buat 😊
