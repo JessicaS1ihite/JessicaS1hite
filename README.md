@@ -1,50 +1,69 @@
-# 👋 Halo, saya Jessica
+# 🌟 Halo, saya Jessica 👋
 
-🎓 **Pelajar** yang sedang belajar pemrograman  
-📍 **Tempat tinggal:** Jakarta Timur, Indonesia  
-💻 **Fokus:** Python, Turtle Graphics, dan Tkinter  
+🎓 **Pelajar | Python Enthusiast**  
+📍 **Jakarta Timur, Indonesia**  
+💻 **Fokus belajar:** Python, Turtle Graphics, Tkinter  
+
+> Selamat datang di portofolio GitHub saya!  
+> Repository ini berisi dokumentasi perjalanan belajar dan proyek-proyek yang saya buat.
 
 ---
 
-## 🌟 Tentang Saya
-Saya adalah pelajar yang tertarik pada dunia pemrograman, khususnya **Python**.  
-Saya senang membuat **gambar dan animasi menggunakan Turtle** serta **aplikasi GUI sederhana dengan Tkinter**.  
-Repository ini saya gunakan sebagai **portofolio dan dokumentasi proses belajar** saya.
+## ✨ Tentang Saya
+Saya adalah pelajar yang sedang mempelajari **pemrograman Python**.  
+Saya tertarik membuat:
+- 🎨 Gambar & animasi menggunakan **Turtle**
+- 🖥️ Aplikasi **GUI sederhana dengan Tkinter**
+- 🌐 Tampilan web sederhana menggunakan **HTML & CSS**
+
+Saya senang belajar hal baru dan terus meningkatkan kemampuan coding saya 🚀
 
 ---
 
 ## 🛠️ Keahlian
-- 🐍 Python Dasar  
-- 🎨 Turtle Graphics  
-- 🖥️ Tkinter (GUI Dasar)  
-- 🌐 HTML & CSS Dasar  
-- 📂 GitHub (mengelola repository)
+- 🐍 **Python Dasar**
+- 🎨 **Turtle Graphics**
+- 🖥️ **Tkinter (GUI Dasar)**
+- 🌐 **HTML**
+- 🎨 **CSS**
+- 📂 **GitHub (Repository & Upload Project)**
 
 ---
 
 ## 📂 Proyek
-Beberapa proyek yang pernah saya buat:
+Beberapa proyek yang telah saya kerjakan:
 
-- 🇮🇩 **Gambar Bendera Indonesia** menggunakan Python Turtle  
-- 🔺 **Bentuk Geometri Berwarna** (segitiga & pola)  
+- 🇮🇩 **Gambar Bendera Indonesia**  
+  _Menggunakan Python Turtle_
+
+- 🔺 **Bentuk Geometri Berwarna**  
+  _Eksplorasi bentuk dan warna dengan Turtle_
+
 - 🖼️ **Gambar Kreatif Turtle**  
-- 🖥️ **Aplikasi GUI Sederhana** dengan Tkinter  
+  _Proyek bebas & artistik_
+
+- 🖥️ **Aplikasi GUI Sederhana**  
+  _Menggunakan Tkinter_
+
+👉 Lihat semua proyek saya di repository GitHub ini!
 
 ---
 
 ## 🎯 Tujuan
-- Meningkatkan kemampuan pemrograman Python  
-- Membuat proyek yang kreatif dan bermanfaat  
-- Membangun portofolio untuk pendidikan dan masa depan  
+- 📌 Membangun portofolio pemrograman
+- 📈 Meningkatkan kemampuan coding
+- 💡 Membuat proyek yang kreatif dan bermanfaat
+- 🚀 Mempersiapkan diri untuk masa depan di bidang teknologi
 
 ---
 
 ## 🚀 Rencana Belajar Selanjutnya
-- Proyek Python tingkat lanjut  
-- Memperdalam Tkinter  
-- Belajar Web Development  
+- 🔹 Proyek Python tingkat lanjut
+- 🔹 Pendalaman Tkinter
+- 🔹 Belajar Web Development
+- 🔹 Membuat website portofolio yang lebih interaktif
 
 ---
 
 ✨ Terima kasih sudah mengunjungi portofolio saya!  
-Silakan lihat repository saya untuk melihat proyek-proyek yang telah saya buat 😊
+Jangan ragu untuk melihat dan mengeksplorasi proyek-proyek yang saya buat 😊
